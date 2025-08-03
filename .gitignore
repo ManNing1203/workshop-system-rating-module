@@ -179,4 +179,8 @@ app.*.map.json
 # Android Studio build artifacts
 /android/app/debug
 /android/app/profile
+<<<<<<< HEAD
 /android/app/release
+=======
+/android/app/release
+>>>>>>> 9470a7a1176c07e1a5afa2df9cab0db6b976ce07
